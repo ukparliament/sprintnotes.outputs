@@ -18,7 +18,7 @@ If you'd like to read about another team, Colin writes up sprint notes for the [
 
 ## What we've learned
 
-Navigating giant documents is hard. Research briefings vary from a single side of A4 to **over 100 pages**. Our research showed that despite the various measures we have put in place during this, and previous, sprints users still struggle to actually use the content. 
+Navigating giant documents is hard. Research briefings vary from a single side of A4 to **over 100 pages**. Our research showed that despite the various measures we have put in place during this sprint (and previous sprints) users still struggle to actually use the content. 
 
 We tried:
 
