@@ -1,6 +1,6 @@
 # Sprint 10
 
-Hello, I'm [Fred](https://twitter.com/gwizxrd), a product manager working on beta.parliament.uk. At the end of each sprint I'm going to write an update about what the outputs team have done and what we have learned.
+Hello, I'm [Fred](https://twitter.com/mcghie_f), a product manager working on beta.parliament.uk. At the end of each sprint I'm going to write an update about what the outputs team have done and what we have learned.
 
 If you'd like to read about another team, [Alan](https://twitter.com/alanmayers) writes up sprint notes for the [people team](https://ukparliament.github.io/sprintnotes.people). Alan has taken over from Colin who left us to return to the Department of Health and Social Care.
 
