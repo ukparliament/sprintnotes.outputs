@@ -20,4 +20,4 @@ If you'd like to read about another team, [Alan](https://twitter.com/alanmayers)
 
 Testing has shown that our prototypes are working better, but there are still problems. The core audience for research briefings will always be MPs/Peers, but we want others to understand what they are. We need to do more to help people understand that research briefings are published by the House of Commons Library and not the House of Commons.  
 
-Research briefings can be general, specifically about a bill or debate or even statistical updates. John, our Content Designer, has been working on some plain English descriptors for the different types. Users have trouble identifying what research they are looking at, so we're trying to make sure it's easy to understand from the very beginning.
+Research briefings can be general, specifically about a bill or debate or even statistical updates. John, our Content Designer, has been working on some plain English descriptions for the different types. Users have trouble identifying what research they are looking at, so we're trying to make sure it's easy to understand from the very beginning.
