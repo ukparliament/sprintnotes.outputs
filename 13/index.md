@@ -14,9 +14,9 @@ We're in the beta phase of research briefings. Helping people access information
 
 ## What we've learned
 
-We have ended the beta phase of research briefings, but we're not actually finished.  Before we could get our pages on beta there are a few steps that need to be done by the data team. The domain model is getting there, but there still needs to be a logical ontology, a physical ontology and a lot of work extracting and transforming data from source systems into the data service. 
+We have ended the beta phase of research briefings, but we're not actually finished.  Before we could get our pages on beta there are a few steps that need to be done. The domain model is getting there, but there still needs to be a logical ontology, a physical ontology and a lot of work extracting and transforming data from source systems into the data service. The people we need have been busy creating the amazing new [statutory instrument service](https://beta.parliament.uk/statutory-instruments), but we'll get our bit done soon.  
 
-Until the work is done, we're going to focus our efforts elsewhere - on content modelling and committee reports. We'll support any work that does happen on research briefings but it would be a poor use of our time to continue working on something that is essentially in limbo.
+Until the work is done, we're going to focus our team's efforts elsewhere - on content modelling and committee reports. We'll support any work that does happen on research briefings but it would be a poor use of our time to continue working on something that is essentially in limbo.
 
 We did get some more evidence to support some previous decisions in the last sprint. Users find research briefings intimidating. There's a lot of content and it's often quite technical. We've taken steps to make it easier to navigate research but we wanted to trial sectioning the content on other pages. Long story short - it didn’t really work. Users struggled to find things they wanted, and really missed using Ctrl+F to quickly scan the whole document. It wouldn't be impossible to make this work, but it would require a lot of work from the content side, and a lot of new features. It's not something new, but it's a good note to finish up on. We made some decisions, we tested them, and we were right. Cool.
 
