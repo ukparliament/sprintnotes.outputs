@@ -14,7 +14,7 @@ We're in the beta phase of research briefings. Helping people access information
 
 ## What we've learned
 
-We have ended the beta phase of research briefings, but we're not actually finished.  Before we could get our pages on beta there are a few steps that need to be done. The domain model is getting there, but there still needs to be a logical ontology, a physical ontology and a lot of work extracting and transforming data from source systems into the data service. The people we need have been busy creating the amazing new [statutory instrument service](https://beta.parliament.uk/statutory-instruments), but we'll get our bit done soon.  
+We have ended the beta phase of research briefings, but we're not actually finished.  Before we could get our pages on beta there are a few steps that need to be done. The domain model is getting there, but there still needs to be a logical ontology, a physical ontology and a lot of work extracting and transforming data from source systems into the data service. The people we need have been busy working on the amazing new [statutory instrument service](https://beta.parliament.uk/statutory-instruments), but we'll get our bit done soon.  
 
 Until the work is done, we're going to focus our team's efforts elsewhere - on content modelling and committee reports. We'll support any work that does happen on research briefings but it would be a poor use of our time to continue working on something that is essentially in limbo.
 
